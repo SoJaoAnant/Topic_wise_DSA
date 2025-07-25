@@ -6,10 +6,10 @@ ARRAYS
 3.	Next permutation (donenzo)
 4.	Kadane’s algorithm (donenzo)
 5.	Sort an array of 0s 1s 2s (donenzo)
-6.	Stock buy and sell
+6.	Stock buy and sell (donenzo)
 
 ARRAYS-2
-1.	Rotate matrix
+1.	Rotate matrix (donenzo)
 2.	Merge overlapping subintervals
 3.	Merge two sorted arrays without extra space
 4.	Find the duplicate in an array of n+1 integers
@@ -32,7 +32,7 @@ ARRAY-4
 5.	Count number of subarrays with given xor k
 6.	Longest substring without repeat
 
- LINKED LIST
+LINKED LIST
 1.	Reverse a linked list
 2.	Find the middle of linked list
 3.	Merge two sorted linked list
@@ -120,7 +120,7 @@ STACK AND QUEUES-2
 10.	The celebrity problem
 
 STRING
-1.	 Reverse words in a string
+1.	Reverse words in a string
 2.	Longest Palindrome in a string
 3.	Roman Number to Integer and vice versa
 4.	Implement ATOI/STRSTR
