@@ -114,7 +114,7 @@ STACK AND QUEUES-2
 4.	Largest rectangle in a histogram
 5.	Sliding window maximum
 6.	Implement min stack
-7.	Rotten orange
+7.	Rotten orange (donenzo)
 8.	Stock span problem 
 9.	Find the maximum of  minimums of every window size
 10.	The celebrity problem
