@@ -37,7 +37,7 @@ LINKED LIST
 2.	Find the middle of linked list
 3.	Merge two sorted linked list
 4.	Remove nth node from back of linked list
-5.	Ass two numbers as linked list
+5.	Add two numbers as linked list
 6.	Delete a given node when a node is given
 
 LINKED LIST-2 
