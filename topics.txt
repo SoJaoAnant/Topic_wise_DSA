@@ -12,7 +12,7 @@ ARRAYS-2
 1.	Rotate matrix (donenzo)
 2.	Merge overlapping subintervals
 3.	Merge two sorted arrays without extra space
-4.	Find the duplicate in an array of n+1 integers
+4.	Find the duplicate in an array of n+1 integers (donenzo)
 5.	Repeat and missing number
 6.	Inversion of array (pre req: merge sort)
 
@@ -25,7 +25,8 @@ ARRAY-3
 6.	Reverse pairs
 
 ARRAY-4
-1.	2 sum
+1.	2 sum (donenzo)
+1.5. 3 sum 
 2.	4 sum
 3.	Longest consecutive sequence
 4.	Largest subarray with k sum
